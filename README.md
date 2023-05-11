@@ -1,4 +1,4 @@
-# sqlalchemy-challenge. 
+# sqlalchemy-challenge 
 ## A climate analysis in Honolulu, Hawaii.
 
 - climate_starter.ipynb - climate analysis and visualization
