@@ -6,7 +6,7 @@
 - Resources -  csv files and sqlite data base file
 
 ## Part 1: Analyze and Explore the Climate Data
-Python, SQLAlchemy ORM queries, Pandas, and Matplotlib were used. were used to do a basic climate analysis and data exploration of climate database. 
+Python, SQLAlchemy ORM queries, Pandas, and Matplotlib were used to do a basic climate analysis and data exploration of climate database. 
 
 ## Part 2: Design Your Climate App
 A Flask API, based on the queries from part 1, was designed.
